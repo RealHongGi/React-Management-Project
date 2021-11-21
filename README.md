@@ -1,5 +1,6 @@
 ## Managemant System
-본프로젝트는 React 강의 목적으로 만들어진 고객 관리 시스템
+본프로젝트는 React 강의 목적으로 만들어진 고객 관리 시스템 
+1차 테스트
 (management System)
 
 # Getting Started with Create React App
